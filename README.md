@@ -7,10 +7,14 @@ An advanced AI-powered Resume Analysis and Candidate Ranking platform that lever
 🔗 Streamlit Deployment:
 https://rag-powered-resume-analyzer-gj7z8kgfokxgjt9tqgv4ok.streamlit.app
 
-## 💻 Development Environment
+## 🌐 Deployment Status
 
-🔗 GitHub Codespace:
-https://shiny-space-enigma-wrv645ppxp77cgqg4.github.dev/
+The application is fully functional in the local development environment.
+
+To run locally:
+
+```bash
+streamlit run app.py
 
 ## 📌 Project Overview
 
