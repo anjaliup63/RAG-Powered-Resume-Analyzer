@@ -14,7 +14,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import HuggingFaceEmbeddings
 #from langchain.chains.question_answering import load_qa_chain
-from langchain.prompts import PromptTemplate
+#from langchain.prompts import PromptTemplate
 
 # --- CONFIGURATION & LOGGING ---
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
