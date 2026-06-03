@@ -2,7 +2,15 @@
 
 An advanced AI-powered Resume Analysis and Candidate Ranking platform that leverages Retrieval-Augmented Generation (RAG), Semantic Search, Vector Embeddings, and Google Gemini LLM to evaluate resumes against job descriptions and generate intelligent hiring insights.
 
----
+---## 🌐 Live Demo
+
+🔗 Streamlit Deployment:
+https://rag-powered-resume-analyzer-gj7z8kgfokxgjt9tqgv4ok.streamlit.app
+
+## 💻 Development Environment
+
+🔗 GitHub Codespace:
+https://shiny-space-enigma-wrv645ppxp77cgqg4.github.dev/
 
 ## 📌 Project Overview
 
